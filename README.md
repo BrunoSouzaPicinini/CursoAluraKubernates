@@ -4,7 +4,7 @@ Projeto de estudo curso de kubernates
 
 ### Pré-requisitos
 
-Instalações nescessárias para rodar o projeto
+Instalações necessárias para rodar o projeto
 
 ```
 * [Docker](https://docs.docker.com/install/)
